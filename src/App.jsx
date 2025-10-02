@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Users, Calendar, BarChart3, Home } from 'lucide-react';
+import { Users, Calendar, ChartBar as BarChart3, Hop as Home } from 'lucide-react';
 
 // Auth
 import Login from './components/auth/Login';
